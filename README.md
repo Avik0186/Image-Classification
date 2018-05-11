@@ -1,2 +1,2 @@
 # Image-Classification
-Image Classification of CiFar 100 Dataset
+Udacity Deep Learning Project 2 - Image Classification of CiFar 100 Dataset
